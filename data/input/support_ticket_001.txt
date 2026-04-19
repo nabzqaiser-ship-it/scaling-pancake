@@ -1,0 +1,30 @@
+Ticket #SUP-8821: Software Installation Problem
+
+Priority: Medium
+Created: April 2, 2026, 10:15 AM
+Customer: Enterprise Client - TechCorp Inc.
+
+Description:
+We're experiencing issues installing the latest version of your enterprise software on our Windows Server 2022 machines. The installation wizard freezes at 67% during the "Configuring Database" step.
+
+Environment Details:
+- Operating System: Windows Server 2022
+- RAM: 32GB
+- SQL Server: 2019 Enterprise Edition
+- Previous Version: 8.2.1 (working fine)
+- Attempting to Install: 9.0.0
+
+Steps Taken:
+1. Disabled antivirus temporarily
+2. Ran installer as Administrator
+3. Verified all prerequisites are met
+4. Checked firewall settings
+5. Reviewed installation logs (attached)
+
+Error Message: "Database configuration timeout after 300 seconds"
+
+This is blocking our quarterly system upgrade. Please advise urgently.
+
+Contact: James Mitchell, IT Manager
+Email: j.mitchell@techcorp.com
+Phone: (555) 123-4567

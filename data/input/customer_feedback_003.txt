@@ -1,0 +1,12 @@
+Subject: Billing Issue - Duplicate Charge
+
+Hello,
+
+I noticed I was charged twice for my recent purchase. My credit card shows two transactions of $129.99 on April 1st, but I only placed one order. I've attached my bank statement showing both charges.
+
+Could you please look into this and refund one of the charges? I'd appreciate a quick response as this is affecting my available credit.
+
+Transaction IDs: TRX-445521 and TRX-445522
+Order Number: #45678
+Amount: $129.99 (charged twice)
+Customer ID: CUS-92341
