@@ -174,7 +174,7 @@ async def get_files():
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Processing error: {str(e)}")
 
-
+# added this endpoint just to compare with/wiythout AsyncIO
 @app.get("/getFiles/nonconcurrent")
 async def get_files_nonconcurrent():
     tasks, file_info = await gather_content()
